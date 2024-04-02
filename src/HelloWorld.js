@@ -6,7 +6,7 @@ const HelloWorld = () => {
     <Container maxWidth="sm" style={{ marginTop: '50px' }}>
       <Paper elevation={3} style={{ padding: '20px' }}>
         <Typography variant="h4" align="center">
-          Hello, World!
+          Hello, AWS!
         </Typography>
       </Paper>
     </Container>
