@@ -4,7 +4,7 @@ import HelloWorld from './HelloWorld';
 function App() {
   return (
     <div>
-      <HelloAWS />
+      <HelloWorld />
     </div>
   );
 }
